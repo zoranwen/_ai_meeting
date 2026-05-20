@@ -1,0 +1,6 @@
+{
+  "name": "AI 會議記錄生成與翻譯工具",
+  "description": "基於 Google Gemini 所開發的智能會議記錄生成與翻譯工具。支援貼上會議逐字稿、智能萃取重點、自動生成決議事項與後續追蹤、並可直接進行多國語言翻譯、格式化渲染及一鍵複製。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
